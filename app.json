@@ -1,0 +1,66 @@
+{
+  "name": "TG Mainatainace Bot",
+  "description": "This Just A Simple Bot Repo For Showing If Youtlr Bot Is Offline Create your Fork now.",
+  "keywords": [
+    "telegram",
+    "best",
+    "open",
+    "source",
+    "maintainance"
+  ],
+  "success_url": "/",
+  "website": "https://github.com/HeimanPictures",
+  "repository": "https://github.com/HeimanPictures/Maintainance-Bot",
+  "env": {
+    "WEBHOOK": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": "",
+      "required": true
+    },
+    "APP_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "AUTH_USERS": {
+      "description": "Owner Id",
+      "value": "1428968542",
+      "required": true
+    },
+    "MAINTAINANCE_TEXT": {
+      "description": "Text to be displayed On User Using Commands",
+      "value": "",
+      "required": true
+    },
+    "UPDATE_CHANNEL": {
+      "description": "Your Update Channel",
+      "value": "",
+      "required": true
+    },
+    "SUPPORT_GROUP": {
+      "description": "Your Support Group",
+      "value": "",
+      "required": true
+    }
+  },
+  "addons": [
+  ],
+  "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
