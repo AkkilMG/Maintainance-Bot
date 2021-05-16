@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="https://github.com/HeimanPictures/Maintainance-Bot/">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
+        <img src="https://telegra.ph/file/b15170ea0826d49c730a3.png" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
