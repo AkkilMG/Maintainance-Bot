@@ -1,6 +1,10 @@
 <h1 align="center">Maintenance Bot</h1>
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
+    <img src="" alt="Cover Image" width="650">
+  </a>
+<p align="center">
+  <a href="https://github.com/HeimanPictures/Maintainance-Bot">
   </a>
   <p align="center">
     A Telegram Repo For Bots Under Maintenance
