@@ -1,7 +1,7 @@
 <h1 align="center">Maintenance Bot</h1>
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
-    <img src="" alt="Cover Image" width="650">
+    <img src="https://github.com/HeimanPictures/Maintainance-Bot/blob/master/Maintainance-Bot.png" alt="Cover Image" width="200">
   </a>
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
@@ -47,7 +47,7 @@
 
 <p align="center">
     <a href="https://github.com/HeimanPictures/Maintainance-Bot/">
-        <img src="https://telegra.ph/file/b15170ea0826d49c730a3.png" height="100" width="100" alt="Telegram Logo">
+        <img src="https://telegra.ph/file/b15170ea0826d49c730a3.png" height="200" width="200" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
