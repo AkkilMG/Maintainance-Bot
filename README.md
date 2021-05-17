@@ -125,4 +125,5 @@ Check This [Click Here](#about-this-bot)
 
 ## Credits
 
+- Logo By [poppit](https://telegram.dog/poppit/)
 - [Heiman Creation](https://github.com/HeimanPictures/)
