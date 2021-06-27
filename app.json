@@ -12,10 +12,6 @@
   "website": "https://github.com/HeimanPictures",
   "repository": "https://github.com/HeimanPictures/Maintainance-Bot",
   "env": {
-    "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
-    },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": "",
