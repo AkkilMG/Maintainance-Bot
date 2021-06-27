@@ -24,11 +24,6 @@
       "description": "Get this value from https://my.telegram.org",
       "required": true
     },
-    "AUTH_USERS": {
-      "description": "Owner Id",
-      "value": "1428968542",
-      "required": true
-    },
     "MAINTAINANCE_TEXT": {
       "description": "Text to be displayed On User Using Commands",
       "required": true
