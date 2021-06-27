@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from config import Config
 
-@Client.on_message(filters.private & filters.command(['start', 'help', 'donate', 'about']), group=0)
+@Client.on_message(filters.private & filters.command(['start', 'help', 'about']))
 async def start(bot, update):
     await update.reply_text(
         text=Config.MAINTAINANCE_TEXT,
