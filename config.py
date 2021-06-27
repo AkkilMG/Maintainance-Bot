@@ -16,6 +16,3 @@ class Config(object):
 
     # Text
     MAINTAINANCE_TEXT = os.environ.get("MAINTAINANCE_TEXT", "")
-
-    # Owner Id
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
