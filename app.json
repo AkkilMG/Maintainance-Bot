@@ -14,17 +14,14 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
       "required": true
     },
     "AUTH_USERS": {
@@ -34,17 +31,14 @@
     },
     "MAINTAINANCE_TEXT": {
       "description": "Text to be displayed On User Using Commands",
-      "value": "",
       "required": true
     },
     "UPDATE_CHANNEL": {
       "description": "Your Update Channel",
-      "value": "",
       "required": true
     },
     "SUPPORT_GROUP": {
       "description": "Your Support Group",
-      "value": "",
       "required": true
     }
   },
