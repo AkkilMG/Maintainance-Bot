@@ -131,7 +131,7 @@ Check This [Click Here](#about-this-bot)
 ## LICENSE
 
 ```
-    Copyright (C) <2021>  <HeimanPictured>
+    Copyright (C) 2021 HeimanPictures
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
