@@ -16,8 +16,8 @@ class Config(object):
 
     # Text
     MAINTAINANCE_TEXT = os.environ.get("MAINTAINANCE_TEXT", "")
-    START_TEXT = os.environ.get('START_TEXT', "")
+    START_TEXT = os.environ.get("START_TEXT", "")
 
     # Heroku
-    APP_NAME = os.environ.get('APP_NAME', 5000)
-    PORT = os.environ.get('PORT', 5000)
+    APP_NAME = os.environ.get("APP_NAME", "")
+    PORT = os.environ.get("PORT", 8080)
