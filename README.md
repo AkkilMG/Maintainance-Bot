@@ -1,4 +1,4 @@
-<h1 align="center">Maintenance Bot</h1>
+<h1 align="center">Maintenance Bot</h1> 
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
     <img src="https://github.com/HeimanPictures/Maintainance-Bot/blob/master/Maintainance-Bot.png" alt="Cover Image" width="200">
