@@ -10,7 +10,7 @@
   ],
   "success_url": "/",
   "website": "https://github.com/HeimanPictures",
-  "repository": "https://github.com/HeimanPictures/Maintainance-Bot",
+  "repository": "https://github.com/HeimanPictures/Maintainance-Bot/tree/PTB",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
