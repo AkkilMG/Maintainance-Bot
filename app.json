@@ -16,24 +16,21 @@
       "description": "Your bot token, as a string.",
       "required": true
     },
-    "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "required": true
-    },
-    "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+    "START_TEXT": {
+      "description": "Text to be displayed On User Using Start Commands",
       "required": true
     },
     "MAINTAINANCE_TEXT": {
-      "description": "Text to be displayed On User Using Commands",
+      "description": "Text to be displayed On User Send Anything",
       "required": true
     },
-    "UPDATE_CHANNEL": {
-      "description": "Your Update Channel",
+    "APP_NAME": {
+      "description": "Your Application Name That You Entered At Starting..",
       "required": true
     },
-    "SUPPORT_GROUP": {
-      "description": "Your Support Group",
+    "PORT": {
+      "description": "Just Keep It Default",
+      "values": "8080",
       "required": true
     }
   },
