@@ -1,7 +1,7 @@
 <h1 align="center">Maintenance Bot</h1> 
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
-    <img src="https://github.com/HeimanPictures/Maintainance-Bot/blob/master/Maintainance-Bot.png" alt="Cover Image" width="200">
+    <img src="logo.png" alt="Cover Image" width="200">
   </a>
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
@@ -42,7 +42,6 @@
   </ol>
 </details>
 
-
 ## About This Bot
 
 <p align="center">
@@ -54,7 +53,6 @@
     This Bot Is For Developers, If Your Bot Is Down, Use This Repo To Give Your Dear Subscribers Some Support By Providing Them Response.
 </p>
 
-
 ## How to make your own
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
@@ -63,7 +61,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeimanPictures/Maintainance-Bot/tree/master/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkkilMG/Maintainance-Bot/tree/master/)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
@@ -79,7 +77,7 @@ python3 -m plugins
 ```
 
 and to stop the whole bot,
- do <kbd>CTRL</kbd>+<kbd>C</kbd>
+do <kbd>CTRL</kbd>+<kbd>C</kbd>
 
 ## Setting up things
 
@@ -98,40 +96,41 @@ MAINTAINANCE_TEXT=your-text
 WEBHOOK=ANYTHING (Keep It Default)
 ```
 
-### Mandatory Vars
+### Mandatory Variables
 
-`APP_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+- `APP_ID` : Go to [my.telegram.org](https://my.telegram.org) to obtain this.
+- `API_HASH` : Go to [my.telegram.org](https://my.telegram.org) to obtain this.
+- `BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+### Non-mandatory Variables
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
-
-`UPDATE_CHANNEL` : Your Telegram Channel Link
-
-`SUPPORT_GROUP` : Your Telegram Support Group Link
-
-`AUTH_USERS` : The ID of the Owner or Maintainer
-
+- `UPDATE_CHANNEL`: Updates channel link
+- `SUPPORT_GROUP`: Support group link
+- `PRIVATE_ONLY`
+- `FILTER_TEXT`
+- `FILTER_MEDIA`
 
 ## How to use the bot
 
-`/start` : To check if the bot is alive or not.
+- `/start` : To check if the bot is alive or not.
 
 Check This [Click Here](#about-this-bot)
 
+
 ## To Be Added:
+
 - Added Broadcast Feature!
 - Made Better Bin Channel Logging!
 
 ## Credits
 
 - Logo By [poppit](https://telegram.dog/poppit/)
-- [Heiman Creation](https://github.com/HeimanPictures/)
+- [AkKiL M G](https://github.com/AkkilMG/)
 
 ## LICENSE
 
 ```
-    Copyright (C) 2021 HeimanPictures
+    Copyright (C) 2021 AkKiL M G
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

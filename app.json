@@ -30,11 +30,11 @@
     },
     "UPDATE_CHANNEL": {
       "description": "Your Update Channel",
-      "required": true
+      "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Your Support Group",
-      "required": true
+      "required": false
     }
   },
   "addons": [
