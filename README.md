@@ -96,13 +96,19 @@ MAINTAINANCE_TEXT=your-text
 WEBHOOK=ANYTHING (Keep It Default)
 ```
 
-### Mandatory Vars
+### Mandatory Variables
 
 - `APP_ID` : Go to [my.telegram.org](https://my.telegram.org) to obtain this.
 - `API_HASH` : Go to [my.telegram.org](https://my.telegram.org) to obtain this.
 - `BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
 
-### Not Mandatory Variables
+### Non-mandatory Variables
+
+- `UPDATE_CHANNEL`: Updates channel link
+- `SUPPORT_GROUP`: Support group link
+- `PRIVATE_ONLY`
+- `FILTER_TEXT`
+- `FILTER_MEDIA`
 
 ## How to use the bot
 
